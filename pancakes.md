@@ -1,4 +1,5 @@
 Pancakes
+Servings: 4
 
 Ingredients
  - Flour
