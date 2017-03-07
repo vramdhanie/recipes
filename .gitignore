@@ -1,0 +1,6 @@
+.ide
+*.class
+*.o
+build/
+bin/
+
