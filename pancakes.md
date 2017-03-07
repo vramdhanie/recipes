@@ -5,3 +5,6 @@ Ingredients
  - Sugar
  - Milk
 
+Directions
+Mix all ingredients and pour into a pan.
+
