@@ -1,4 +1,5 @@
 Pancakes
+Calories: 800
 
 Ingredients
  - Flour
