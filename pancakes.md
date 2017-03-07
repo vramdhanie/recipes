@@ -1,5 +1,6 @@
 Pancakes
 Servings: 4
+Calories: 800
 
 Ingredients
  - Flour
