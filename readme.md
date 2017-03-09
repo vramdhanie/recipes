@@ -1,7 +1,9 @@
-The Recipes Project
+_**This is just a repository used as part of a training exercise.**_
+
+#The Recipes Project
 A list of the very tastiest recipes ever.
 
-Table of Contents
+##Table of Contents
  - Mac n Cheese
  - Coffee
  - Tea
